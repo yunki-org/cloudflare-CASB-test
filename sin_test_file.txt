@@ -1,0 +1,16 @@
+Canada Social Insurance Number (SIN) Test Data
+===============================================
+
+Name: John Smith
+SIN: 046-454-286
+
+Name: Jane Doe
+SIN: 527-234-512
+
+Name: Robert Brown
+SIN: 130-692-544
+
+Name: Emily Johnson
+SIN: 123-456-782
+
+Note: This is test data only. Not
